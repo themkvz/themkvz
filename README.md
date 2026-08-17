@@ -8,24 +8,26 @@
   <a href="mailto:ihor@themkvz.com"><img src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ihor" /></a>
 </p>
 
-I turn legacy systems and ambitious product ideas into fast, maintainable web platforms. For 9+ years, I have worked across product engineering, agency delivery, technical leadership, and infrastructure - with a focus on code quality, practical architecture, and measurable product value.
+Front-End Developer building scalable web and cross-platform applications with React, Next.js, Expo, TypeScript, JavaScript, PHP, and WordPress.
+
+I focus on clean code, practical architecture, performance, and product value. I work across engineering, design, and marketing to modernize complex systems, using AI as an assistant for repetitive work while keeping judgment and quality human-owned.
 
 ```ts
 const ihor = {
   role: "Senior Full-Stack & Front-End Engineer",
-  basedIn: "Lviv, Ukraine",
+  basedIn: "Ukraine",
   builds: ["product platforms", "cross-platform apps", "developer systems"],
   optimizesFor: ["clarity", "performance", "maintainability"],
-  currentFocus: "modernizing products and building AI-assisted workflows",
+  currentFocus: "modernizing complex products and cross-platform applications",
 } as const;
 ```
 
 ## Selected impact
 
-- **Product modernization** - rebuilding public web experiences and internal systems at [Forex Tester](https://forextester.com/) on a modern, scalable stack.
+- **Product modernization** - rebuilding public web experiences and internal systems on a modern, scalable stack.
 - **Technical leadership** - led delivery, code reviews, task planning, onboarding, and technical interviews while helping teams ship integrated customer systems.
-- **Volunteer engineering** - building a cross-platform mobile app and React admin dashboard with a team at Lviv State University of Life Safety.
-- **Multi-market delivery** - created reusable commerce foundations and customer integrations for projects including [Trek Movers](https://trekmovers.com/) and regional [Karcher](https://karchershop.ge/) storefronts.
+- **Volunteer engineering** - building a cross-platform mobile app and React admin dashboard with a volunteer team.
+- **Multi-market delivery** - created reusable commerce foundations and customer integrations for regional storefronts.
 
 ## Core stack
 
