@@ -8,38 +8,33 @@
   <a href="mailto:ihor@themkvz.com"><img src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ihor" /></a>
 </p>
 
-Front-End Developer & Technical Lead building scalable web and cross-platform applications.
+Lead developer, front end, based in Ukraine. I build web and cross-platform products with TypeScript and React, and modernize long-lived systems while they stay in production. I use AI for routine work; design decisions and code review stay with me. Currently studying for an MSc in Software Engineering and Artificial Intelligence.
 
-I focus on clean code, practical architecture, performance, and product value. I work across engineering, design, and marketing to modernize complex systems, using AI as an assistant for repetitive work while keeping judgment and quality human-owned.
+## Featured projects
 
-## Selected impact
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [themkvz.com](https://themkvz.com) · [source](https://github.com/themkvz/personal-website) | My engineering workbench: notes, decisions, a glossary, and small tools. Content is MDX validated at build time, and every page can also be read as Markdown. | React Router 8 (SSR), React 19, MDX, Tailwind CSS 4 |
+| [URL Inspector](https://url.themkvz.com/) · [source](https://github.com/themkvz/url-inspector) | Parses a URL into its parts, lets you edit one part or the query table, and rebuilds it. An unedited URL comes back as the exact same string. Runs only in the browser. | Preact, TypeScript, Cloudflare Pages |
+| [Timestamp](https://timestamp.themkvz.com) · [source](https://github.com/themkvz/timestamp) | Converts Unix seconds or milliseconds to UTC and local time and back, with millisecond precision. Rejects times that fall in a daylight-saving gap. Runs only in the browser. | TypeScript |
+| [Sortes](https://sortes.themkvz.com) · [source](https://github.com/themkvz/sortes) | A tongue-in-cheek tarot reading for developers. Server-rendered with one interactive island and a pure state machine, covered by end-to-end tests. | Remix 3, Bun, Playwright |
+| [Global AI Setup](https://github.com/themkvz/global-ai-setup) | One set of agent instructions, skills, and subagents in `~/.ai`, linked into Claude Code, Codex CLI, Gemini, and GitHub Copilot. | Shell |
 
-- **Product modernization** - rebuilding public web experiences and internal systems on a modern, scalable stack.
-- **Technical leadership** - led delivery, code reviews, task planning, onboarding, and technical interviews while helping teams ship integrated customer systems.
-- **Volunteer engineering** - building a cross-platform mobile app and React admin dashboard with a volunteer team.
-- **Multi-market delivery** - created reusable commerce foundations and customer integrations for regional storefronts.
+## Selected work
 
-## Core stack
+- **Forex Tester, Lead Developer (2024 to now).** Rebuilt the public website and the internal dashboard on a current stack, in place, while the trading products kept shipping.
+- **Altum Software / DevOut Labs, Lead Developer (2022 to 2024).** Led front-end client delivery: scoped new work, split it across the team, reviewed code with junior developers, and onboarded new teammates.
+- **Deosebit Service, Front-End Developer (2017 to 2022).** Owned the front end of WordPress client sites for customers in several countries, from requirements to the VPS they ran on.
+- **I-Volunteer (volunteer).** Building a cross-platform mobile app and a React admin dashboard with a volunteer team.
 
-- **Frontend:** TypeScript, React, React Router, Next.js, Expo, Tailwind CSS.
-- **Backend & CMS:** Node.js, Bun, PHP, WordPress, PostgreSQL, Drizzle.
-- **Delivery & quality:** Docker, GitHub Actions, Vitest, Biome.
+## Core expertise
 
-## How I work
+- **Front end:** TypeScript, React, React Router, Next.js, Expo, Tailwind CSS.
+- **Back end and CMS:** Node.js, Bun, PHP, WordPress, PostgreSQL, Drizzle.
+- **Delivery and quality:** Docker, GitHub Actions, Vitest, Playwright, Biome.
 
-- **Product first:** Architecture serves the user, the team, and the business outcome.
-- **Simple by design:** Clear boundaries and boring solutions beat accidental complexity.
-- **AI with judgment:** I use AI to accelerate routine work while keeping engineering decisions human-owned.
+## Contact
 
-## Beyond the day job
-
-- Pursuing an MSc in **Software Engineering and Artificial Intelligence**.
-- Volunteering on mobile and admin tooling for **I-Volunteer**.
-- Exploring better ways to combine AI-assisted development with strong review, testing, and delivery practices.
-
-<p align="center">
-  <strong>Have a useful, difficult problem?</strong><br />
-  <a href="https://themkvz.com/">Explore my work</a> ·
-  <a href="https://www.linkedin.com/in/ihor-mukovoz/">Connect on LinkedIn</a> ·
-  <a href="mailto:ihor@themkvz.com">Send an email</a>
-</p>
+- Website: [themkvz.com](https://themkvz.com/)
+- LinkedIn: [Ihor Mukovoz](https://www.linkedin.com/in/ihor-mukovoz/)
+- Email: [ihor@themkvz.com](mailto:ihor@themkvz.com)
