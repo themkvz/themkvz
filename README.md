@@ -18,7 +18,7 @@ Lead developer, front end, based in Ukraine. I build web and cross-platform prod
 | [URL Inspector](https://url.themkvz.com/) · [source](https://github.com/themkvz/url-inspector) | Parses a URL into its parts, lets you edit one part or the query table, and rebuilds it. An unedited URL comes back as the exact same string. Runs only in the browser. | Preact, TypeScript, Cloudflare Pages |
 | [Timestamp](https://timestamp.themkvz.com) · [source](https://github.com/themkvz/timestamp) | Converts Unix seconds or milliseconds to UTC and local time and back, with millisecond precision. Rejects times that fall in a daylight-saving gap. Runs only in the browser. | TypeScript |
 | [Sortes](https://sortes.themkvz.com) · [source](https://github.com/themkvz/sortes) | A tongue-in-cheek tarot reading for developers. Server-rendered with one interactive island and a pure state machine, covered by end-to-end tests. | Remix 3, Bun, Playwright |
-| [Global AI Setup](https://github.com/themkvz/global-ai-setup) | One set of agent instructions, skills, and subagents in `~/.ai`, linked into Claude Code, Codex CLI, Gemini, and GitHub Copilot. | Shell |
+| [Formain Setup](https://github.com/themkvz/formain-setup) | One set of agent instructions, skills, and subagents in `~/.ai`, linked into Claude Code, Codex CLI, Gemini, and GitHub Copilot. | Shell |
 
 ## Selected work
 
