@@ -35,6 +35,17 @@ Front-end lead developer. I build web and cross-platform products with TypeScrip
 - **Quality:** Vitest, Bun Test, Playwright, Biome, Lefthook, axe-core accessibility checks.
 - **Delivery:** Docker, GitHub Actions, Cloudflare Pages, Sentry.
 
+## Coding activity
+
+<p>
+  <a href="https://wakapi.themkvz.com"><img src="https://wakapi.themkvz.com/api/badge/Ingvar/interval:30_days?label=last%2030d" alt="Coding time in the last 30 days" /></a>
+  <a href="https://wakapi.themkvz.com"><img src="https://wakapi.themkvz.com/api/badge/Ingvar/interval:today?label=today" alt="Coding time today" /></a>
+</p>
+
+<p>
+  <a href="https://wakapi.themkvz.com"><img src="https://wakapi.themkvz.com/api/activity/chart/Ingvar.svg" alt="Wakapi coding activity chart" /></a>
+</p>
+
 ## Contact
 
 - Website: [themkvz.com](https://themkvz.com/)
